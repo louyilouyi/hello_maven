@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hello_maven"
+  id="myeclipse.1479104073817"
+  context-root="/hello_maven"
+  j2ee-spec="5.0"
+  archive="hello_maven.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
